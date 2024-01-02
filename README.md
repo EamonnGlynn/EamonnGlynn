@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EamonnGlynn
 - 👀 I’m interested in bugs, especially the computer kind
-- 🌱 I’m currently learning data structures
+- 🌱 I’m currently learning algorithms
 - 💞️ I’m looking to collaborate on anything that i can get my hands on
 - 📫 Reach out to me via email
 
